@@ -1,2 +1,0 @@
-# ClassyRemake
-In curand.
